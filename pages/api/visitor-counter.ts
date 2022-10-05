@@ -14,5 +14,5 @@ export default async function handler(
   const data = response.data || 1;
   const svg = getVisitorCounter(data.value);
   res.setHeader("Content-Type", "image/svg+xml");
-  res.send(svg);
+  res.status(200).send(svg);
 }
