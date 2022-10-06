@@ -35,7 +35,7 @@ https://pimp-my-readme-next.vercel.app/api/wavy-banner?title=Hello%20world
 
 [![Visitor Counter for pimp-my-readme](https://pimp-my-readme-next.vercel.app/api/visitor-counter?page=pimp-my-readme-next)](https://pimp-my-readme-next.vercel.app)
 
-[![JavaScript_HTML_CSS_NodeJS_Express_](https://pimp-my-readme-next.vercel.app/api/technology?technology=JavaScript_HTML_CSS_NodeJS_Express_)](https://pimp-my-readme-next.vercel.app)
+[![JavaScript_HTML_CSS_Python_Java_NodeJS_GoLang_Elixir_MySQL_PostgreSQL_MongoDB_Redis_AWS_ReactJS_Flask_Express_](https://pimp-my-readme-next.vercel.app/api/technology?technology=JavaScript_HTML_CSS_Python_Java_NodeJS_GoLang_Elixir_MySQL_PostgreSQL_MongoDB_Redis_AWS_ReactJS_Flask_Express_)](https://pimp-my-readme-next.vercel.app)
 
 ## Development
 
