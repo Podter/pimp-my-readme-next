@@ -1,6 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# pimp-my-readme-next
 
-## Getting Started
+[![GitHub deployments](https://img.shields.io/github/deployments/Podter/pimp-my-readme-next/Production?label=vercel&logo=vercel&logoColor=white&style=for-the-badge)](http://pimp-my-readme-next.vercel.app/)
+
+[![Pimp my README, built with Next.js and deployed on Vercel](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=built%20with%20Next.js%20and%20deployed%20on%20Vercel&title=Pimp%20my%20README)](http://pimp-my-readme-next.vercel.app/)
+
+## Original repository
+
+The original Pimp my README made by joshdsouza8, you can see his repository here:
+
+https://github.com/joshdsouza8/pimp-my-readme
+
+## Why
+
+joshdsouza8's Pimp my README is down (https://pimp-my-readme.webapp.io/) and [Someone host it on Heroku](https://github.com/joshdsouza8/pimp-my-readme/issues/11#issuecomment-1206689828) but it's slow (I think because cold start)
+
+I want to host my own one but I don't want to pay for Heroku (Heroku isn't free anymore) and I try to host it on Vercel but I can't so I build it again using Next.js and host it on Vercel
+
+## Migrate from Pimp my README
+
+Just change from `https://pimp-my-readme.webapp.io/pimp-my-readme` to `http://pimp-my-readme-next.vercel.app/api` and everything should work
+
+```
+# Example
+https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?title=Hello%20world
+# to
+https://pimp-my-readme-next.vercel.app/api/wavy-banner?title=Hello%20world
+```
+
+## Development
 
 First, run the development server:
 
@@ -12,20 +39,23 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Build
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Run this to build
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```bash
+npm run build
+# or
+yarn build
+```
 
-## Learn More
+And then start the server
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+npm start
+# or
+yarn start
+```
 
 ## Deploy on Vercel
 
