@@ -1,8 +1,8 @@
 # pimp-my-readme-next
 
-[![GitHub deployments](https://img.shields.io/github/deployments/Podter/pimp-my-readme-next/Production?label=vercel&logo=vercel&logoColor=white&style=for-the-badge)](http://pimp-my-readme-next.vercel.app/)
+[![GitHub deployments](https://img.shields.io/github/deployments/Podter/pimp-my-readme-next/Production?label=vercel&logo=vercel&logoColor=white&style=for-the-badge)](https://pimp-my-readme-next.vercel.app/)
 
-[![Pimp my README, built with Next.js and deployed on Vercel](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=built%20with%20Next.js%20and%20deployed%20on%20Vercel&title=Pimp%20my%20README)](http://pimp-my-readme-next.vercel.app/)
+[![Pimp my README, built with Next.js and deployed on Vercel](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=built%20with%20Next.js%20and%20deployed%20on%20Vercel&title=Pimp%20my%20README)](https://pimp-my-readme-next.vercel.app/)
 
 ## Original repository
 
@@ -18,7 +18,7 @@ I want to host my own one but I don't want to pay for Heroku (Heroku isn't free 
 
 ## Migrate from Pimp my README
 
-Just change from `https://pimp-my-readme.webapp.io/pimp-my-readme` to `http://pimp-my-readme-next.vercel.app/api` and everything should work
+Just change from `https://pimp-my-readme.webapp.io/pimp-my-readme` to `https://pimp-my-readme-next.vercel.app/api` and everything should work
 
 ```
 # Example
@@ -26,6 +26,16 @@ https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?title=Hello%20world
 # to
 https://pimp-my-readme-next.vercel.app/api/wavy-banner?title=Hello%20world
 ```
+
+# Examples
+
+[![Pimp my README, An open source project :)](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=An%20open%20source%20project%20%3A%29&title=Pimp%20my%20README)](https://pimp-my-readme-next.vercel.app)
+
+[![Pimp my README](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f91f-1f3fe_1f60e_1f608_1f995&text=Pimp%20your%20README)](https://pimp-my-readme-next.vercel.app)
+
+[![Visitor Counter for pimp-my-readme](https://pimp-my-readme-next.vercel.app/api/visitor-counter?page=pimp-my-readme-next)](https://pimp-my-readme-next.vercel.app)
+
+[![JavaScript_HTML_CSS_NodeJS_Express_](https://pimp-my-readme-next.vercel.app/api/technology?technology=JavaScript_HTML_CSS_NodeJS_Express_)](https://pimp-my-readme-next.vercel.app)
 
 ## Development
 
