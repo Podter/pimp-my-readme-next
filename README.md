@@ -29,11 +29,11 @@ https://pimp-my-readme-next.vercel.app/api/wavy-banner?title=Hello%20world
 
 # Examples
 
-[![Pimp my README, An open source project :)](https://pimp-my-readme-next.vercel.app/api/wavy-banner?title=Hello%20world)](https://pimp-my-readme-next.vercel.app)
+[![Hello world example](https://pimp-my-readme-next.vercel.app/api/wavy-banner?title=Hello%20world&subtitle=Lorem%20ipsum%20dolor%20sit%20amet%20consectetur%2C%20adipisicing%20elit.)](https://pimp-my-readme-next.vercel.app)
 
-[![Pimp my README](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f91f-1f3fe_1f60e_1f608_1f995&text=Pimp%20your%20README)](https://pimp-my-readme-next.vercel.app)
+[![Pimp your README](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f91f-1f3fe_1f60e_1f608_1f995&text=Pimp%20your%20README)](https://pimp-my-readme-next.vercel.app)
 
-[![Visitor Counter for pimp-my-readme](https://pimp-my-readme-next.vercel.app/api/visitor-counter?page=pimp-my-readme-next)](https://pimp-my-readme-next.vercel.app)
+[![Visitor Counter for pimp-my-readme-next](https://pimp-my-readme-next.vercel.app/api/visitor-counter?page=pimp-my-readme-next)](https://pimp-my-readme-next.vercel.app)
 
 [![JavaScript_HTML_CSS_Python_Java_NodeJS_GoLang_Elixir_MySQL_PostgreSQL_MongoDB_Redis_AWS_ReactJS_Flask_Express_](https://pimp-my-readme-next.vercel.app/api/technology?technology=JavaScript_HTML_CSS_Python_Java_NodeJS_GoLang_Elixir_MySQL_PostgreSQL_MongoDB_Redis_AWS_ReactJS_Flask_Express_)](https://pimp-my-readme-next.vercel.app)
 
