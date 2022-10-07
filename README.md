@@ -12,7 +12,7 @@ https://github.com/joshdsouza8/pimp-my-readme
 
 ## Why
 
-joshdsouza8's Pimp my README is down (https://pimp-my-readme.webapp.io/) and [Someone host it on Heroku](https://github.com/joshdsouza8/pimp-my-readme/issues/11#issuecomment-1206689828) but it's slow (I think because cold start)
+joshdsouza8's Pimp my README is down (https://pimp-my-readme.webapp.io/) and [vivekkj123 host it on Heroku](https://github.com/joshdsouza8/pimp-my-readme/issues/11#issuecomment-1206689828) but it's slow (I think because cold start)
 
 I want to host my own one but I don't want to pay for Heroku (Heroku isn't free anymore) and I try to host it on Vercel but I can't so I build it again using Next.js and host it on Vercel
 
