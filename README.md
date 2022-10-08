@@ -49,6 +49,8 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+(Nevermind the Next.js errors and any types in this project, lazy to find a way to fix it 😂)
+
 ## Build
 
 Run this to build
